@@ -1,0 +1,25 @@
+Tomato Rice,rice;tomato;onion,20,Cook rice, prepare tomato masala, and mix them.
+Potato Fry,potato;onion;oil,25,Cut potatoes, heat oil, add onion and potatoes, and fry.
+Egg Fried Rice,rice;egg;onion,15,Cook rice, scramble eggs, add onion, and mix everything.
+Vegetable Pulao,rice;carrot;beans;onion;oil,30,Cook vegetables and rice together with spices.
+Bread Omelette,bread;egg;onion;oil,10,Prepare an omelette and serve with toasted bread.
+Lemon Rice,rice;lemon;peanuts;oil,15,Cook rice, add lemon juice and spices, and mix well.
+Veg Fried Rice,rice;carrot;beans;capsicum;onion;oil,20,Cook vegetables, add rice and sauces, and mix well.
+Potato Masala,potato;onion;tomato;oil,25,Boil potatoes, prepare onion tomato masala, and mix together.
+Egg Curry,egg;onion;tomato;oil,30,Boil eggs, prepare onion tomato gravy, and cook together.
+Tomato Omelette,tomato;onion;egg;oil,15,Chop vegetables, mix with eggs, and cook like an omelette.
+Curd Rice,rice;curd;milk,10,Mix cooked rice with curd and milk, and add seasoning.
+Vegetable Sandwich,bread;tomato;onion;cucumber;butter,15,Apply butter to bread, add vegetables, and toast.
+Paneer Curry,paneer;onion;tomato;cream;oil,30,Cook onion and tomato masala, add paneer and cream, and simmer.
+Paneer Butter Masala,paneer;butter;tomato;cream;spices,35,Prepare tomato gravy, add butter and cream, and cook paneer in the gravy.
+Mushroom Curry,mushroom;onion;tomato;oil,25,Cook onion and tomato masala, add mushrooms, and simmer.
+Mushroom Fried Rice,rice;mushroom;onion;capsicum;oil,20,Cook mushrooms and vegetables, add rice, and stir fry.
+Chicken Biryani,chicken;rice;onion;tomato;curd;spices,60,Marinate chicken, prepare masala, add rice, and cook until done.
+Mutton Biryani,mutton;rice;onion;tomato;curd;spices,90,Marinate mutton, cook with biryani masala, add rice, and cook until tender.
+Paneer Biryani,paneer;rice;onion;tomato;curd;spices,40,Prepare paneer masala, layer with rice, and cook together.
+Mushroom Biryani,mushroom;rice;onion;tomato;curd;spices,35,Cook mushroom masala, layer with rice, and cook together.
+Gulab Jamun,milk powder;flour;sugar;ghee,40,Prepare dough, make small balls, fry them, and soak in sugar syrup.
+Rice Kheer,rice;milk;sugar;cardamom;dry fruits,35,Cook rice in milk, add sugar and cardamom, and garnish with dry fruits.
+Carrot Halwa,carrot;milk;sugar;ghee;dry fruits,45,Grate carrots, cook with milk, add sugar and ghee, and garnish.
+Rava Kesari,rava;sugar;ghee;cashew;cardamom,20,Roast rava in ghee, add water and sugar, and cook until thick.
+Chocolate Pudding,milk;sugar;cocoa powder;corn flour,20,Mix ingredients, heat until thick, cool, and refrigerate.
